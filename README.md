@@ -37,13 +37,12 @@ A short demo of the ASCII match-3 game in action.
 - Linux or any OS supported by raylib (tested on Xubuntu in VirtualBox)
 - GCC or Clang
 - [raylib](https://github.com/raysan5/raylib) installed (`sudo make install`)
-- Optional: `make`
-
-### Compile with make:
+- Optional, but recommended: `make` - build automation tool for easier compilation 
+### Compile with make (recommended):
 
 ```bash
-make
-./mygame
+make            # Builds the game
+./mygame        # Runs the game
 ```
 
 ### Compile manually:
