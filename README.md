@@ -69,9 +69,8 @@ Match3/
 - Better Animations
 - Highlight wrong selections
 - Reset Option
-- Leaderboards/Score Board
-- Main Menu (Settings to change/mute music or sound effects)
-- Pause Menu
+- Leaderboards/Score Board and Timer
+- Main Menu, Pause Menu (Settings to change/mute music or sound effects)
 - Web port via Emscripten (future)
 
 ---
@@ -82,7 +81,7 @@ MIT. See [LICENSE](LICENSE) for details.
 
 ## Attribution
 
-This project was adapted from a tutorial by [Erik Yuzwa](https://github.com/erikyuzwa/raylib-2d-ascii-match-3), originally published via FreeCodeCamp.
+This project was adapted from a tutorial by [Erik Yuzwa](https://github.com/erikyuzwa/raylib-2d-ascii-match-3) and published via FreeCodeCamp.
 
 Licensed under the [MIT License](LICENSE).
 
